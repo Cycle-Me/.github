@@ -1,6 +1,6 @@
 # Welcome to Official Repository of CycleMe
 <p align = "center">
-  <img width=30% height=60% src="https://storage.googleapis.com/web-cloud-storage/logo-cycleme.png">
+  <img width=30% height=60% src="https://storage.googleapis.com/cycleme-pictures/logo.png">
  </p>
  
  ## Our Member
