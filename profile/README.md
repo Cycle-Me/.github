@@ -23,13 +23,19 @@ Bangkit Product-based Capstone Project 2023
 CycleMe is a mobile application that empowers users to classify waste based on pictures they capture or upload. Once a photo is uploaded, the app will identify the waste type and provide recommendations on recycled products tutorials. The app requires camera access and an active internet connection. With CycleMe, users can share their recycling journey through the Feed feature, where they can post images and videos accompanied by captions. By uploading an image to the Feed, users will earn points that can be redeemed for exciting rewards. Moreover, users can engage with one another by leaving comments on posts. We highly value user feedback as it contributes to the ongoing improvement of our application. We hope you enjoy your experience with CycleMe!
 </p>
 
-## Project Branch
+## Project API Branch
 * **AUTHENTICATION API** https://github.com/Cycle-Me/backend/tree/main
-  * Using node.js and Express, Deploy on App Engine with MySQL database on Compute Engine
-  * endpoint : https://auth-api-dot-cycleme-2023.et.r.appspot.com/
+  * Using node.js and Express, Deploy on App Engine with MySQL database on App Engine
+  * endpoint : https://backend-dot-cycleme-2023.et.r.appspot.com
+* **STORY API** https://github.com/Cycle-Me/backend/tree/story-api
+  * Using node.js and Express, Deploy on App Engine with MySQL database and Cloud Storage on App Engine
+  * endpoint : https://backend-dot-cycleme-2023.et.r.appspot.com
 * **RECOMMENDATION API** https://github.com/Cycle-Me/machine_learning/tree/recommendation
   * Using node.js and cors, Deploy on App Engine and adjust with Machine Learning Model Category
   * endpoint : https://recomendation-api-dot-cycleme-2023.et.r.appspot.com/
+* **FEEDBACK API** https://github.com/Cycle-Me/frontend/tree/feedback-api
+  * Using Flask Python and integrate with our google Email and MySQL Database
+  * endpoint : https://feedback-api-ilhkkpshpa-uc.a.run.app/
 * **MACHINE LEARNING API** https://github.com/Cycle-Me/machine_learning/tree/ml-api
   * Using Python, Flask, Tensorflow and Deploy on CloudRun with some Dockerfile Configure
   * endpoint : https://ml-api-ilhkkpshpa-uc.a.run.app/
