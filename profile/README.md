@@ -2,6 +2,8 @@
 <p align = "center">
   <img width=30% height=60% src="https://storage.googleapis.com/cycleme-pictures/logo.png">
  </p>
+
+Bangkit Product-based Capstone Project 2023
  
  ## Our Member
  Team C23-PS102
@@ -17,18 +19,22 @@
 
 
 ## Introduction
-CycleMe is a mobile application that enables users to classify waste based on pictures they capture. The app requires camera access and an active internet connection. With CycleMe, you can share your recycling journey through the Feed feature, where you can post images and videos accompanied by captions. Other than that, you can interact with other users by leaving comments on their posts. If you have recycled products to sell, our Marketplace feature has you covered. Please ensure that you follow any guidelines or restrictions provided by the app for content upload in the Feed feature and adhere to specific policies related to selling products in the Marketplace. We hope you enjoy using CycleMe!
+CycleMe is a mobile application that enables users to classify waste based on pictures they captured or uploaded. Once the photo uploaded, the app will show you the waste type and the recycled recommendations. The app requires camera access and an active internet connection. With CycleMe, you can share your recycling journey through the Feed feature, where you can post images and videos accompanied by captions. Upon uploading an image to the Feed, you will accrue points, which can subsequently be redeemed for captivating rewards. Other than that, you can interact with other users by leaving comments on their posts.  Furthermore, users are encouraged to share their valuable feedback with us, as it aids in the continuous improvement of our application. We hope you enjoy using CycleMe!
 
 ## Project Branch
 * **AUTHENTICATION API** https://github.com/Cycle-Me/backend/tree/main
   * Using node.js and Express, Deploy on App Engine with MySQL database on Compute Engine
-  * 
   * endpoint : https://auth-api-dot-cycleme-2023.et.r.appspot.com/
 * **RECOMMENDATION API** https://github.com/Cycle-Me/machine_learning/tree/recommendation
   * Using node.js and cors, Deploy on App Engine and adjust with Machine Learning Model Category
-  * 
   * endpoint : https://recomendation-api-dot-cycleme-2023.et.r.appspot.com/
 * **MACHINE LEARNING API** https://github.com/Cycle-Me/machine_learning/tree/ml-api
   * Using Python, Flask, Tensorflow and Deploy on CloudRun with some Dockerfile Configure
-  * 
   * endpoint : https://ml-api-ilhkkpshpa-uc.a.run.app/
+
+## References
+* Anon., 2020. SIPSN. [Online]. Available at: https://sipsn.menlhk.go.id/sipsn/. [Accessed 15 June 2023].
+* Munir, A. & Fadhilah, 2023. Climate Change and Food Insecurities: The Importance of Food Loss and Waste Reduction in Indonesia. IOP Conf. Series: Earth and Environmental Science.
+* Saragih, Y., Hidayat, R. & Hadikusuma, R. S., 2023. COMMUNITY PERSPECTIVE ON THE WASTE MANAGEMENT SYSTEM IN LAMBANGSARI BEKASI VILLAGE BASED ON SMART GARBAGE ROBOTS. JURNAL ILMIAH GLOBAL EDUCATION, 4(2), pp. 482-487.
+* Yang, M. & Thung, G., 2016. Classification of Trash for Recyclability Status. 
+
