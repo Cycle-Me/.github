@@ -19,7 +19,9 @@ Bangkit Product-based Capstone Project 2023
 
 
 ## Introduction
+<p align="justify">
 CycleMe is a mobile application that enables users to classify waste based on pictures they captured or uploaded. Once the photo uploaded, the app will show you the waste type and the recycled recommendations. The app requires camera access and an active internet connection. With CycleMe, you can share your recycling journey through the Feed feature, where you can post images and videos accompanied by captions. Upon uploading an image to the Feed, you will accrue points, which can subsequently be redeemed for captivating rewards. Other than that, you can interact with other users by leaving comments on their posts.  Furthermore, users are encouraged to share their valuable feedback with us, as it aids in the continuous improvement of our application. We hope you enjoy using CycleMe!
+</p>
 
 ## Project Branch
 * **AUTHENTICATION API** https://github.com/Cycle-Me/backend/tree/main
@@ -33,8 +35,9 @@ CycleMe is a mobile application that enables users to classify waste based on pi
   * endpoint : https://ml-api-ilhkkpshpa-uc.a.run.app/
 
 ## References
+<p align="justify">
 * Anon., 2020. SIPSN. [Online]. Available at: https://sipsn.menlhk.go.id/sipsn/. [Accessed 15 June 2023].
 * Munir, A. & Fadhilah, 2023. Climate Change and Food Insecurities: The Importance of Food Loss and Waste Reduction in Indonesia. IOP Conf. Series: Earth and Environmental Science.
 * Saragih, Y., Hidayat, R. & Hadikusuma, R. S., 2023. COMMUNITY PERSPECTIVE ON THE WASTE MANAGEMENT SYSTEM IN LAMBANGSARI BEKASI VILLAGE BASED ON SMART GARBAGE ROBOTS. JURNAL ILMIAH GLOBAL EDUCATION, 4(2), pp. 482-487.
 * Yang, M. & Thung, G., 2016. Classification of Trash for Recyclability Status. 
-
+</p>
